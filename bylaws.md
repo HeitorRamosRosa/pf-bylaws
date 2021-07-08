@@ -101,12 +101,12 @@ Article 12 [SPECIAL PROVISIONS](#special-provisions)
 1.  # OFFICES AND AGENT
     
 
-1.  ## Registered Office
+1.1  ## Registered Office
     
 
 The registered office of the Corporation shall be at Corporation Trust Center, 1209 Orange Street, in the City of Wilmington, County of New Castle. The name of the registered agent of the Corporation at such location is The Corporation Trust Company.
 
-1.  ## Other Offices
+1.2  ## Other Offices
     
 
 The Corporation may have any number of additional offices, at such other places as the Board of Directors may from time to time determine, or as the affairs of the Corporation may require.
@@ -114,34 +114,34 @@ The Corporation may have any number of additional offices, at such other places 
 2.  # MEMBERS’ MEETINGS
     
 
-2.  ## Annual Meeting
+2.1  ## Annual Meeting
     
 
 The annual meeting of members for the purpose of electing directors and of transacting such other business as may come before it shall be held at such time as may be specified by resolution of the Board of Directors.
 
-1.  ## Special Meetings
+2.2  ## Special Meetings
     
 
 Special meetings of the members for any purpose or purposes may be called at any time by the Chairman of the Board, by the President, by resolution of the Board of Directors or by the Secretary. At a special meeting of the members, no business shall be transacted and no corporate action shall be taken other than that stated in the notice of the meeting.
 
-2.  ## Time and Place
+2.3  ## Time and Place
     
 
 Meetings of the members shall be held at such time and place either within or without the State of Delaware as shall be designated from time to time by the Board of Directors and stated in the notice of meeting or in a duly executed waiver of notice thereof.
 
-3.  ## Notice of Meetings
+2.4  ## Notice of Meetings
     
 
 It shall be the duty of the Secretary to cause a notice of each meeting of the members of the Corporation to be mailed at least one and not sooner than sixty days before the meeting, unless a different period is prescribed by law, to each member entitled to vote at such meeting at his or her address as it appears upon the books of the Corporation, stating the place, date and hour of the meeting and, in the case of a special meeting, the purpose or purposes for which the meeting is held.
 
-4.  ## Quorum
+2.5  ## Quorum
     
 
 At any meeting of the members, the members present in person or by proxy of a majority of the members entitled to vote shall constitute a quorum of the members for all purposes (unless the representation of a larger number of members shall be required by law or by the Certificate of Incorporation, in which case the representation of the number of members so required shall constitute a quorum).
 
 A majority of the members entitled to vote who are present in person or by proxy at any meeting (whether or not constituting a quorum) may adjourn the meeting from time to time without notice other than by announcement thereat; and at any adjourned meeting at which a quorum shall be present, any business may be transacted which might have been transacted at the meeting as originally called, but only those members entitled to vote at the meeting originally noticed shall be entitled to vote at any adjournment or adjournments thereof. However, if the adjournment is for more than thirty days, or if after the adjournment a new record date is fixed, notice of the adjourned meeting shall be given to each member entitled to vote at the meeting.
 
-5.  ## Organization and Conduct of Meetings
+2.6  ## Organization and Conduct of Meetings
     
 
 The President shall call meetings of members to order and shall act as Chairman of such meetings. In the absence of the President at any meeting, the Chairman of the Board shall act as Chairman. In the absence of the President or the Chairman of the Board at any meeting, a majority of the members entitled to vote present in person or by proxy at such meeting shall elect a Chairman.
@@ -150,12 +150,12 @@ The Secretary of the Corporation shall act as Secretary of all meetings of the m
 
 It shall be the duty of the Secretary to prepare and make, at least ten days before every meeting of the members, a complete list of the members entitled to vote at said meeting, arranged in alphabetical order and showing the address of each member. Such list shall be open to the examination of any member for any purpose germane to the meeting, during ordinary business hours, for the ten days preceding the meeting, either at a place within the city where the meeting is to be held, which place shall be specified in the notice of the meeting, or, if not so specified, at the place where the meeting is to be held. The list shall also be produced and kept at the time and place of the meeting during the whole time thereof, and may be inspected by any member who is present.
 
-6.  ## Voting
+2.7  ## Voting
     
 
 Except as otherwise provided in the Certificate of Incorporation or these Bylaws, every member of the Corporation which is entitled to vote shall be entitled to one vote in person, by proxy or by written consent as provided in Section 2.8 of these Bylaws, but no proxy shall be voted on after three years from its date, unless the proxy provides for a longer period. All questions shall be decided by vote of the majority of the members entitled to vote on the subject matter who are present in person or by proxy, except as provided in Section 2.8 of these Bylaws or otherwise provided by these Bylaws, the Certificate of Incorporation or the laws of the State of Delaware.
 
-7.  ## Action by Written Consent
+2.8  ## Action by Written Consent
     
 
 Any action required to be taken at any annual or special meeting of members or a, or any action which may be taken at any annual or special meeting of such members, may be taken without a meeting, without prior notice and without a vote, if a consent in writing, setting forth the action so taken, shall be signed by the members having not less than the minimum number of votes that would be necessary to authorize or take such action at a meeting at which all members entitled to vote thereon were present and voted. A telegram, cablegram or other electronic transmission consenting to an action to be taken and transmitted by a member or proxyholder, or by a person or persons authorized to act for a member or proxyholder, shall be deemed to be written, signed and dated for the purposes of this section, provided that any such telegram, cablegram or other electronic transmission sets forth or is delivered with information from which the Corporation can determine (A) that the telegram, cablegram or other electronic transmission was transmitted by the member or proxyholder or by a person or persons authorized to act for the member or proxyholder and (B) the date on which such member or proxyholder or authorized person or persons transmitted such telegram, cablegram or electronic transmission. The date on which such telegram, cablegram or electronic transmission is transmitted shall be deemed to be the date on which such consent was signed. No consent given by telegram, cablegram or other electronic transmission shall be deemed to have been delivered until such consent is reproduced in paper form and until such paper form shall be delivered to the Corporation by delivery to its registered office in this State, its principal place of business or an officer or agent of the Corporation having custody of the book in which proceedings of meetings of stockholders or members are recorded. Delivery made to a Corporation's registered office shall be made by hand or by certified or registered mail, return receipt requested. Prompt notice of the taking of the corporate action without a meeting by less than unanimous written consent shall be given to those members who have not consented in writing.
@@ -165,26 +165,26 @@ Any action required to be taken at any annual or special meeting of members or a
 
   
 
-1.  ## Admission of Members
+3.1  ## Admission of Members
     
 
 To be eligible for membership, a person must have made a non-trivial contribution to any aspect of the Corporation's activities and must complete a written membership application in such form as shall be adopted by the Board of Directors from time to time. Membership is said to be based on merit, a term defined in detail by the Board of Directors, which definition is made available publicly on the Plone Foundation website. Membership carries no monetary cost. The initial members of the Corporation shall be admitted upon the affirmative vote of the Board of Directors of the Corporation at the initial meeting of the Board of Directors. Thereafter, members of the Corporation shall be admitted as members of the Corporation only by a majority vote of the Membership Committee, subject to approval by the Board of Directors, or shall be admitted as members of the Corporation by direct appointment by the Board of Directors.
 
-2.  ## Responsibilities of Members
+3.2  ## Responsibilities of Members
     
 
 Members agree to support the principles, goals and objectives of the Corporation, and not work against them. Members supervise the activities of the Corporation, its Board of Directors, officers and committees to ensure that their actions support the principles, goals and objectives of the Corporation.
 
   
 
-3.  ## Annual Renewal of Membership
+3.3  ## Annual Renewal of Membership
     
 
 Membership must be renewed annually by each member in a procedure designed, implemented and announced by the Membership Committee, and approved by the Board of Directors at least 30 days before any implementation. Memberships that are not renewed within 30 days of expiration are converted to Emeritus memberships.
 
   
 
-4.  ## Emeritus Members
+3.4  ## Emeritus Members
     
 
 An emeritus member is a member whose membership has been suspended and converted to emeritus status, either voluntarily in accordance with Section 3.5 of these Bylaws, automatically due to failure to renew membership in accordance with Section 3.3 of these Bylaws, or involuntarily by action of the members in accordance with Section 3.6 of these Bylaws, such that all membership rights of the emeritus member, including the right to vote and be counted for purposes of quorum, are suspended and terminated until the emeritus member's membership is reinstated in accordance with Section 3.7 of these Bylaws.
