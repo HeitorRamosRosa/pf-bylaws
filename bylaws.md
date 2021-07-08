@@ -101,7 +101,7 @@ Article 12 [SPECIAL PROVISIONS](#special-provisions)
 1.  # OFFICES AND AGENT
     
 
-1.1  ## Registered Office
+1.1    ## Registered Office ##
     
 
 The registered office of the Corporation shall be at Corporation Trust Center, 1209 Orange Street, in the City of Wilmington, County of New Castle. The name of the registered agent of the Corporation at such location is The Corporation Trust Company.
