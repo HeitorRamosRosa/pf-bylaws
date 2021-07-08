@@ -1,9 +1,5 @@
 
-BYLAWS
-
-OF
-
-THE PLONE FOUNDATION
+# BYLAWS OF THE PLONE FOUNDATION #
 
   
   
@@ -18,153 +14,86 @@ THE PLONE FOUNDATION
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
 Adopted as of August 11, 2004
 
 Revised September 2008  
 
 TABLE OF CONTENTS
 
-ARTICLE 1 OFFICES AND AGENT  [1](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.gjdgxs)
 
-1.1  Registered Office  [1](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.30j0zll)
+Article 1 [OFFICES AND AGENT](#offices-and-agent)    
+  1.1 [Registered Office](#registered-office)    
+  1.2 [Other Offices](#other-offices)    
+Article 2 [MEMBERS’ MEETINGS](#members--meetings)    
+  2.1 [Annual Meeting](#annual-meeting)    
+  2.2 [Special Meetings](#special-meetings)    
+  2.3 [Time and Place](#time-and-place)    
+  2.4 [Notice of Meetings](#notice-of-meetings)    
+  2.5 [Quorum](#quorum)    
+  2.6 [Organization and Conduct of Meetings](#organization-and-conduct-of-meetings)    
+  2.7 [Voting](#voting)    
+  2.8 [Action by Written Consent](#action-by-written-consent)    
+Article 3 [MEMBERS](#members)    
+  3.1 [Admission of Members](#admission-of-members)    
+  3.2 [Responsibilities of Members](#responsibilities-of-members)    
+  3.3 [Annual Renewal of Membership](#annual-renewal-of-membership)    
+  3.4 [Emeritus Members](#emeritus-members)    
+  3.5 [Voluntary Conversion of Membership to Emeritus Status](#voluntary-conversion-of-membership-to-emeritus-status)    
+  3.6 [Involuntary Conversion of Membership to Emeritus Status](#involuntary-conversion-of-membership-to-emeritus-status)    
+  3.7 [Reinstatement of Membership of Emeritus Members](#reinstatement-of-membership-of-emeritus-members)    
+  3.8 [Voluntary Withdrawal from Membership](#voluntary-withdrawal-from-membership)    
+  3.9 [Termination from Membership](#termination-from-membership)    
+  3.10 [Effect of Withdrawal or Termination of Membership](#effect-of-withdrawal-or-termination-of-membership)    
+Article 4 [BOARD OF DIRECTORS](#board-of-directors)    
+  4.1 [General Powers](#general-powers)    
+  4.2 [Number](#number)    
+  4.3 [Vacancies, Removal and Newly Created Directorships](#vacancies--removal-and-newly-created-directorships)    
+  4.4 [Place of Meeting, etc.](#place-of-meeting--etc)    
+  4.5 [Regular Meetings](#regular-meetings)    
+  4.6 [Special Meetings](#special-meetings-1)    
+  4.7 [Quorum](#quorum-1)    
+  4.8 [Compensation of Directors](#compensation-of-directors)    
+  4.9 [Conduct of Meetings](#conduct-of-meetings)    
+  4.10 [Action Without Meeting](#action-without-meeting)    
+  4.11 [Telecommunication Meetings](#telecommunication-meetings)    
+  4.12 [Contracts](#contracts)    
+  4.13 [Advisory Board Members](#advisory-board-members)    
+Article 5 [COMMITTEES](#committees)    
+Article 6 [OFFICERS](#officers)    
+  6.1 [Officers](#officers)    
+  6.2 [The Chairman of the Board](#the-chairman-of-the-board)    
+  6.3 [The President](#the-president)    
+  6.4 [The Vice Presidents](#the-vice-presidents)    
+  6.5 [The Treasurer](#the-treasurer)    
+  6.6 [The Assistant Treasurers](#the-assistant-treasurers)    
+  6.7 [The Secretary](#the-secretary)    
+  6.8 [The Assistant Secretaries](#the-assistant-secretaries)    
+  6.9 [Project Management Committees](#project-management-committees)    
+  6.10 [The Membership Committee](#the-membership-committee)    
+  6.11 [Giving of Bond by Officers](#giving-of-bond-by-officers)    
+  6.12 [Compensation of Officers](#compensation-of-officers)    
+Article 7 [RECORD DATE – SEAL – FISCAL YEAR](#record-date---seal---fiscal-year)    
+  7.1 [Fixing of Record Dates](#fixing-of-record-dates)    
+  7.2 [Corporate Seal](#corporate-seal)    
+  7.3 [Fiscal Year](#fiscal-year)    
+  7.4 [Addresses of Members](#addresses-of-members)    
+Article 8 [MISCELLANEOUS PROVISIONS](#miscellaneous-provisions)    
+  8.1 [Checks, Notes, etc.](#checks--notes--etc)    
+  8.2 [Notices](#notices)    
+  8.3 [Waivers of Notice](#waivers-of-notice)    
+Article 9 [INDEMNIFICATION](#indemnification)    
+Article 10 [AMENDMENTS](#amendments)    
+Article 11 [GOVERNING RULES](#governing-rules)    
+Article 12 [SPECIAL PROVISIONS](#special-provisions)    
+  12.1 [2008 Membership Renewal](#2008-membership-renewal)    
 
-1.2  Other Offices  [1](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.1fob9te)
 
-ARTICLE 2 MEMBERS’ MEETINGS  [1](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3znysh7)
 
-2.1  Annual Meeting  [1](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3znysh7)
 
-2.2  Special Meetings  [1](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.2et92p0)
 
-2.3  Time and Place  [1](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.tyjcwt)
 
-2.4  Notice of Meetings  [1](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3dy6vkm)
 
-2.5  Quorum  [2](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.1t3h5sf)
 
-2.6  Organization and Conduct of Meetings  [2](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.4d34og8)
-
-2.7  Voting  [2](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.2s8eyo1)
-
-2.8  Action by Written Consent  [3](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.17dp8vu)
-
-ARTICLE 3 MEMBERS  [3](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3rdcrjn)
-
-3.1  Admission of Members  [3](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.26in1rg)
-
-3.2  Responsibilities of Members  [4](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.lnxbz9)
-
-3.3  Annual Renewal of Membership  [4](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.35nkun2)
-
-3.4  Emeritus Members  [4](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.1ksv4uv)
-
-3.5  Voluntary Conversion of Membership to Emeritus Status  [4](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.44sinio)
-
-3.6  Involuntary Conversion of Membership to Emeritus Status  [5](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.2jxsxqh)
-
-3.7  Reinstatement of Membership of Emeritus Members  [5](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.z337ya)
-
-3.8  Voluntary Withdrawal from Membership  [5](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3j2qqm3)
-
-3.9  Termination from Membership  [5](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.1y810tw)
-
-3.10  Effect of Withdrawal or Termination of Membership  [5](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.4i7ojhp)
-
-ARTICLE 4 BOARD OF DIRECTORS  [5](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.2xcytpi)
-
-4.1  General Powers  [5](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.2xcytpi)
-
-4.2  Number  [5](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.1ci93xb)
-
-4.3  Vacancies, Removal and Newly Created Directorships  [6](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3whwml4)
-
-4.4  Place of Meeting, etc.  [6](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.2bn6wsx)
-
-4.5  Regular Meetings  [6](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.qsh70q)
-
-4.6  Special Meetings  [6](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3as4poj)
-
-4.7  Quorum  [7](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.1pxezwc)
-
-4.8  Compensation of Directors  [7](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.49x2ik5)
-
-4.9  Conduct of Meetings  [7](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.2p2csry)
-
-4.10  Action Without Meeting  [7](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.147n2zr)
-
-4.11  Telecommunication Meetings  [8](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3o7alnk)
-
-4.12  Contracts  [8](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.23ckvvd)
-
-ARTICLE 5 COMMITTEES  [8](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.ihv636)
-
-ARTICLE 6 OFFICERS  [9](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.32hioqz)
-
-6.1  Officers  [9](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.32hioqz)
-
-6.2  The Chairman of the Board  [10](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.1hmsyys)
-
-6.3  The President  [10](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.41mghml)
-
-6.4  The Vice Presidents  [10](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.2grqrue)
-
-6.5  The Treasurer  [10](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.vx1227)
-
-6.6  The Assistant Treasurers  [11](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3fwokq0)
-
-6.7  The Secretary  [11](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.1v1yuxt)
-
-6.8  The Assistant Secretaries  [11](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.4f1mdlm)
-
-6.9  Project Management Committees  [11](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.2u6wntf)
-
-6.10  The Membership Committee  [12](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.19c6y18)
-
-6.11  Giving of Bond by Officers  [12](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3tbugp1)
-
-6.12  Compensation of Officers  [12](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.28h4qwu)
-
-ARTICLE 7 RECORD DATE – SEAL – FISCAL YEAR  [12](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.nmf14n)
-
-7.1  Fixing of Record Dates  [12](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.37m2jsg)
-
-7.2  Corporate Seal  [12](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.1mrcu09)
-
-7.3  Fiscal Year  [13](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.46r0co2)
-
-7.4  Addresses of Members  [13](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.2lwamvv)
-
-ARTICLE 8 MISCELLANEOUS PROVISIONS  [13](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.111kx3o)
-
-8.1  Checks, Notes, etc.  [13](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3l18frh)
-
-8.2  Notices  [13](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.206ipza)
-
-8.3  Waivers of Notice  [13](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.4k668n3)
-
-ARTICLE 9 INDEMNIFICATION  [14](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.2zbgiuw)
-
-ARTICLE 10 AMENDMENTS  [15](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.1egqt2p)
-
-ARTICLE 11 GOVERNING RULES  [15](https://docs.google.com/document/d/1fuuePhKE4-g4s3r1s_xBuMM1YoBkCbzNlN2-z0WhTVw/edit#heading=h.3ygebqi)
 
   
   
